@@ -10,7 +10,16 @@ O sistema tem como objetivo oferecer uma plataforma simples, segura e acessível
 * [Proposta de arquitetura](docs/02-proposta-de-arquitetura.md)
 * [Identidade Visual](docs/03-identidade-visual.md)
 * [Padrões de interface](docs/04-padroes-de-interface.md)
-* 
+  
+  ## Logotipo
+
+O logotipo do projeto pode ser encontrado em:
+
+- [`assets/images/logo-meetpoint.png`](assets/images/logo-meetpoint.png)
+
+A documentação da identidade visual está em:
+
+- [`docs/04-identidade-visual.md`](docs/04-identidade-visual.md)
 
 ## Tecnologias propostas
 
