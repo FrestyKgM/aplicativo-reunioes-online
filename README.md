@@ -11,7 +11,7 @@ O sistema tem como objetivo oferecer uma plataforma simples, segura e acessível
 * [Identidade Visual](docs/03-identidade-visual.md)
 * [Padrões de interface](docs/04-padroes-de-interface.md)
   
-  ## Logotipo
+## Logotipo
 
 O logotipo do projeto pode ser encontrado em:
 
