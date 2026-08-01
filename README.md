@@ -12,7 +12,7 @@ O sistema tem como objetivo oferecer uma plataforma simples, segura e acessível
 - [04 - Padrões de Interface](docs/04-padroes-de-interface.md)
 - [05 - Padrões de Nomenclatura, Programação e Documentação](docs/05-padroes-de-desenvolvimento.md)
 - [06 - Plano de Testes](docs/06-plano-de-testes.md)
-  
+- [07 - Tecnologias Utilizadas](docs/07-tecnologias-utilizadas.md)
 ## Logotipo
 
 O logotipo do projeto pode ser encontrado em:
