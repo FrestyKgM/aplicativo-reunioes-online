@@ -11,6 +11,7 @@ O sistema tem como objetivo oferecer uma plataforma simples, segura e acessível
 - [03 - Identidade Visual](docs/03-identidade-visual.md)
 - [04 - Padrões de Interface](docs/04-padroes-de-interface.md)
 - [05 - Padrões de Nomenclatura, Programação e Documentação](docs/05-padroes-de-desenvolvimento.md)
+- [06 - Plano de Testes](docs/06-plano-de-testes.md)
   
 ## Logotipo
 
