@@ -10,7 +10,7 @@ O sistema tem como objetivo oferecer uma plataforma simples, segura e acessível
 - [02 - Proposta de Arquitetura](docs/02-proposta-de-arquitetura.md)
 - [03 - Padrões de Interface](docs/03-padroes-de-interface.md)
 - [04 - Identidade Visual](docs/04-identidade-visual.md)
-- [05 - Padrões de Nomenclatura, Programação e Documentação](docs/05-padroes-de-nomenclatura.md)
+- [05 - Padrões de Nomenclatura, Programação e Documentação](docs/05-padroes-de-desenvolvimento.md)
   
 ## Logotipo
 
