@@ -8,7 +8,9 @@ O sistema tem como objetivo oferecer uma plataforma simples, segura e acessível
 
 * [Análise de mercado](docs/01-analise-de-mercado.md)
 * [Proposta de arquitetura](docs/02-proposta-de-arquitetura.md)
+* [Identidade Visual](docs/03-identidade-visual.md)
 * [Padrões de interface](docs/04-padroes-de-interface.md)
+* 
 
 ## Tecnologias propostas
 
