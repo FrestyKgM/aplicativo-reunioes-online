@@ -1,4 +1,4 @@
-# Aplicativo de Reuniões On-line
+# Aplicativo de Reuniões On-line: MeetPoint
 
 Este repositório contém a documentação de um projeto de aplicativo móvel de reuniões on-line para Android e iOS.
 
